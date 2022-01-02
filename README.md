@@ -1,6 +1,7 @@
 # Dynamic reconstruction of PACT
 
 ## Low-rank phantom (rank 3)
+![](images/out-lowrank.gif)
 
 ## Perfusion phantom
 ### Effect of noise level: 0.01, 0.05 Gaussian
