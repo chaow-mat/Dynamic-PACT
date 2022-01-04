@@ -1,6 +1,6 @@
 # Dynamic reconstruction of PACT
 
-## Low-rank phantom (rank 3)
+## Low-rank phantom
 ![](images/out-lowrank.gif)
 
 ## Perfusion phantom
@@ -14,3 +14,4 @@
 ![](images/out-frame.gif)
 
 ## Experimental phantom of tube
+![](images/com.gif)
